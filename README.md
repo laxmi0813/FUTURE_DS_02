@@ -61,7 +61,7 @@ The dataset includes customer details such as:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Uploading image.png…]()
 
 ---
 
