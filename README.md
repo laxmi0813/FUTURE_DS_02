@@ -1,4 +1,4 @@
-# 📊 Customer Retention & Churn Analysis Dashboard
+<img width="1263" height="705" alt="image" src="https://github.com/user-attachments/assets/7cb5cb6c-0585-4712-9603-92d6d656436e" /># 📊 Customer Retention & Churn Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -61,7 +61,8 @@ The dataset includes customer details such as:
 
 ## 📷 Dashboard Preview
 
-![Uploading image.png…]()
+<img width="1263" height="705" alt="image" src="https://github.com/user-attachments/assets/0876222f-de0d-4934-aa93-0f7a6d0b8fb4" />
+
 
 ---
 
